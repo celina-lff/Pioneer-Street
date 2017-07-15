@@ -1,0 +1,17 @@
+.img>img{
+	width: 100%;
+}
+.img>h2{
+	margin-top:-2%;
+	margin-left:30%;
+	color:#fff;
+}
+.news-img{
+	width: 100px;
+	height: 100px;
+	border:5px solid #ccc;
+	border-radius:50%;
+}
+.list-group-item>h4{
+	color:blue;
+}
